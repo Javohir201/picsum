@@ -31,10 +31,10 @@ header {
 header .card{
     width: 400px;
     height: 400px;
-    background: url(https://picsum.photos/id/1/300/300);
+    background: url(https://picsum.photos/id/1/400/400);
     transition: 1s;
 }
 
 .card:hover {
-    background: url(https://picsum.photos/id/2/300/300);
+    background: url(https://picsum.photos/id/2/400/400);
 }
